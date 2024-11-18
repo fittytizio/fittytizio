@@ -17,3 +17,5 @@ Here is the list of my projects.
 ---
 
 <nobr>this is a test - this is a test - this is a test - this is a test - this is a test - this is a test - this is a test - this is a test - this is a test - this is a test - this is a test - this is a test - this is a test - this is a test - this is a test - this is a test - this is a test</nobr>
+
+<span style="white-space:nowrap">THIS IS A TEST - THIS IS A TEST - THIS IS A TEST - THIS IS A TEST - THIS IS A TEST - THIS IS A TEST - THIS IS A TEST - THIS IS A TEST - THIS IS A TEST - THIS IS A TEST - THIS IS A TEST - THIS IS A TEST - THIS IS A TEST - THIS IS A TEST - THIS IS A TEST - THIS IS A TEST - THIS IS A TEST</span>
