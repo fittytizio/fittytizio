@@ -1,22 +1,15 @@
 # fittytizio
 
-List of my projects.
+Here is the list of my projects.
 
-## Python
+**:snake: Python**
 
-- :snake: [myproject01](https://github.com/fittytizio/fittytizio)
-- :snake: [myproject01](https://github.com/fittytizio/fittytizio)
-- :snake: [myproject01](https://github.com/fittytizio/fittytizio)
+[myproject01](https://github.com/fittytizio/fittytizio) - [myproject01](https://github.com/fittytizio/fittytizio) - [myproject01](https://github.com/fittytizio/fittytizio)
 
-## Rust
+**:crab: Rust**
 
-- :crab: [myproject01](https://github.com/fittytizio/fittytizio)
-- :crab: [myproject01](https://github.com/fittytizio/fittytizio)
+[myproject01](https://github.com/fittytizio/fittytizio) - [myproject01](https://github.com/fittytizio/fittytizio)
 
-## Docker
+**:whale: Docker**
 
-- :whale: [myproject01](https://github.com/fittytizio/fittytizio)
-- :whale: [myproject01](https://github.com/fittytizio/fittytizio)
-- :whale: [myproject01](https://github.com/fittytizio/fittytizio)
-- :whale: [myproject01](https://github.com/fittytizio/fittytizio)
-- :whale: [myproject01](https://github.com/fittytizio/fittytizio)
+[myproject01](https://github.com/fittytizio/fittytizio) - [myproject01](https://github.com/fittytizio/fittytizio) - [myproject01](https://github.com/fittytizio/fittytizio) - [myproject01](https://github.com/fittytizio/fittytizio) - [myproject01](https://github.com/fittytizio/fittytizio)
